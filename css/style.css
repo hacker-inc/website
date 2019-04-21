@@ -656,7 +656,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
   margin-top: 100px;
   padding: 50px 20px;
   transition: all 0.5s ease-in-out 0s;
-  box-shadow: 0 0 35px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 35px rgba(324, 33, 33, 0.5);
 }
 
 @media (max-width: 991px) {
@@ -666,7 +666,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 
 #get-started .feature-block:hover {
-  box-shadow: 0 0 35px rgba(324, 33, 33, 0.5);
+  box-shadow: 0 0 35px rgba(254, 33, 33, 0.5);
   transition: all 0.5s ease-in-out 0s;
 }
 
